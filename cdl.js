@@ -228,7 +228,7 @@ console.log(chalk`
   1. Input Target/delay Manual (ITTYW)
   —————————————————————————————————————————————————————}
       `);
-//aexinav
+//fikiandi
 inquirer.prompt(User)
 .then(answers => {
   Excute({
